@@ -96,7 +96,7 @@ Hasta pronto!
 
 ## 🚀 Cómo usar este programa
 
-### 🔧 Requisitos previos
+###  Requisitos previos
 - Tener instalado **Python 3**
 - Descargar desde: https://python.org/downloads/
 
@@ -104,20 +104,20 @@ Hasta pronto!
 
 ## 💻 Ejecución
 
-### 🪟 Windows
+###  Windows
 1. Descargar `inventario.py`
 2. Clic derecho → **Abrir con → Python**
 3. ¡Listo!
 
-### 🍎 Mac
+###  Mac
 1. Clic derecho → **Abrir con → Python 3.x**
 
-### 🐧 Linux
+###  Linux
 1. Clic derecho → **Abrir con → Python 3**
 
 ---
 
-### 💡 Si Python no aparece
+###  Si Python no aparece
 - Instalar Python marcando **"Add Python to PATH"**
 - O seleccionar manualmente `python.exe`
 
@@ -125,14 +125,14 @@ Hasta pronto!
 
 ## 🆕 Funcionalidades
 
-- ✅ Menú interactivo
-- ✅ Manejo de múltiples productos
-- ✅ Visualización del inventario
-- ✅ Cálculo de subtotales
-- ✅ Cálculo del valor total
-- ✅ Conteo de productos
-- ✅ Formato tipo factura
-- ✅ Validación de datos (try/except)
+-  Menú interactivo
+-  Manejo de múltiples productos
+-  Visualización del inventario
+-  Cálculo de subtotales
+-  Cálculo del valor total
+-  Conteo de productos
+-  Formato tipo factura
+-  Validación de datos (try/except)
 
 ---
 
